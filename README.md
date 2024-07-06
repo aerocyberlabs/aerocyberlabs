@@ -12,9 +12,4 @@ My Projects:
 Collaborate With Me:
 
 I'm always on the lookout for collaboration opportunities and love connecting with fellow tech enthusiasts. If you're interested in pushing the boundaries of what's possible in aerospace and digital forensics, let's chat!
-Get in Touch:
-
-    Email: catalysed@duck.com
-    LinkedIn: www.linkedin.com/in/prasanthmpvs
-
 Feel free to explore my repositories and don't hesitate to reach out if you have questions or proposals for collaboration. Let's innovate together!
